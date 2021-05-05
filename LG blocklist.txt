@@ -24,13 +24,13 @@ eic.service.lgtvcommon.com
 eic.homeprv.lgtvcommon.com
 mediaservices.cdn-apple.com
 *.mgr.gcsp.cddbp.net
-lgtvonline.lge.com # connectivity check?
+lgtvonline.lge.com
 gfts.lge.com # LG Smartshare
 #*.tvsdp.lgeapi.com
 *.ssp-pix.adstk.io
-*.lgrecommends.lgappstv.com
+#*.lgrecommends.lgappstv.com
 *.mzstatic.com
-securetime.playready.microsoft.com
+#securetime.playready.microsoft.com
 discovery.meethue.com
 www.ueiwsp.com
 
