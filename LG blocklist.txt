@@ -106,11 +106,11 @@ xml.opera.com
 lg-tv-2020.prod.partner.netflix.net
 *.prod.partner.netflix.net
 eic.netflixvoice.lgtvcommon.com
-customerevents.netflix.com
+#customerevents.netflix.com
 nrdp.nccp.netflix.com
 push.prod.netflix.com
 nrdp.prod.cloud.netflix.com
-occ-0-2774-2773.1.nflxso.net
+#occ-0-2774-2773.1.nflxso.net
 
 #Amazon
 arcus-uswest.amazon.com
