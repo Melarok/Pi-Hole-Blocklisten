@@ -109,7 +109,7 @@ eic.netflixvoice.lgtvcommon.com
 #customerevents.netflix.com
 nrdp.nccp.netflix.com
 push.prod.netflix.com
-nrdp.prod.cloud.netflix.com
+#nrdp.prod.cloud.netflix.com
 #occ-0-2774-2773.1.nflxso.net
 
 #Amazon
@@ -135,9 +135,9 @@ kraken-measurements.s3-external-1.amazonaws.com
 msh.amazon.co.uk
 unagi-eu.amazon.com
 unagi-na.amazon.com
-api.amazon.com
+#api.amazon.com
 #atv-ext-eu.amazon.com
-xp-webos50-ignite-unknown.api.amazonvideo.com
+#xp-webos50-ignite-unknown.api.amazonvideo.com
 images-na.ssl-images-amazon.com
 
 #unknown origin
