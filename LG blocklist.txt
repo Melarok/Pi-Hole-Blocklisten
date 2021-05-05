@@ -11,7 +11,7 @@ ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
 *.ad.lgsmartad.com
 *.ibs.lgappstv.com
 *.info.lgsmartad.com
-*.lgtvsdp.com
+#*.lgtvsdp.com
 #smartshare.lgtvsdp.com
 #*.rdx2.lgtvsdp.com
 *.ioam.de
@@ -26,7 +26,7 @@ mediaservices.cdn-apple.com
 *.mgr.gcsp.cddbp.net
 lgtvonline.lge.com # connectivity check?
 gfts.lge.com # LG Smartshare
-*.tvsdp.lgeapi.com
+#*.tvsdp.lgeapi.com
 *.ssp-pix.adstk.io
 *.lgrecommends.lgappstv.com
 *.mzstatic.com
