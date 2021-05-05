@@ -136,7 +136,7 @@ msh.amazon.co.uk
 unagi-eu.amazon.com
 unagi-na.amazon.com
 api.amazon.com
-atv-ext-eu.amazon.com
+#atv-ext-eu.amazon.com
 xp-webos50-ignite-unknown.api.amazonvideo.com
 images-na.ssl-images-amazon.com
 
