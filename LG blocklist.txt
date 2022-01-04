@@ -1,20 +1,20 @@
 #LG und Tracker
 #snu.lge.com # Potential update domain
-*.xumo.com
+xumo.com
 api.thetake.com
 ad.lgappstv.com
 ibis.lgappstv.com
 lgad.cjpowercast.com.edgesuite.net
 ngfts.lge.com # blocks thumbnails from loading in the LG Content Store
-*.smartclip.com
-*.smartclip.net
-*.ad.lgsmartad.com
-*.ibs.lgappstv.com
-*.info.lgsmartad.com
-#*.lgtvsdp.com
+smartclip.com
+smartclip.net
+ad.lgsmartad.com
+ibs.lgappstv.com
+info.lgsmartad.com
+#lgtvsdp.com
 #smartshare.lgtvsdp.com
-#*.rdx2.lgtvsdp.com
-*.ioam.de
+#rdx2.lgtvsdp.com
+ioam.de
 aic-ngfts.lge.com
 eic-ngfts.lge.com
 eic.cdpbeacon.lgtvcommon.com
@@ -23,13 +23,13 @@ eic.cdpsvc.lgtvcommon.com
 eic.service.lgtvcommon.com
 eic.homeprv.lgtvcommon.com
 mediaservices.cdn-apple.com
-*.mgr.gcsp.cddbp.net
+mgr.gcsp.cddbp.net
 lgtvonline.lge.com
 gfts.lge.com # LG Smartshare
-#*.tvsdp.lgeapi.com
-*.ssp-pix.adstk.io
-#*.lgrecommends.lgappstv.com
-*.mzstatic.com
+#tvsdp.lgeapi.com
+ssp-pix.adstk.io
+#lgrecommends.lgappstv.com
+mzstatic.com
 #securetime.playready.microsoft.com
 discovery.meethue.com
 www.ueiwsp.com
@@ -104,7 +104,7 @@ xml.opera.com
 
 #Netflix
 lg-tv-2020.prod.partner.netflix.net
-*.prod.partner.netflix.net
+prod.partner.netflix.net
 eic.netflixvoice.lgtvcommon.com
 #customerevents.netflix.com
 nrdp.nccp.netflix.com
